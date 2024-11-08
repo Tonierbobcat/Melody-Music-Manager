@@ -1,0 +1,6 @@
+name: MelodyMusicManagerPlugin
+version: '1.0-SNAPSHOT'
+main: com.loficostudios.melodyMusicManagerPlugin.MelodyMusicManagerPlugin
+api-version: '1.20'
+depend:
+  - MelodyAPI
